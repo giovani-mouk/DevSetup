@@ -25,3 +25,7 @@ cloner le dépôt: git clone URL_du_repo
 *Objectif
 
 Apprendre à utiliser git, github, vscode et node.js
+
+** Branche de développement
+
+Cette branche est utilisée pour développer de nouvelles fonctionnalités.
