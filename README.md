@@ -18,3 +18,10 @@ README.md
 *Utilisation 
 
 cloner le dépôt: git clone URL_du_repo
+
+*Auteur
+-MOUKOKO Giovani Maxina
+
+*Objectif
+
+Apprendre à utiliser git, github, vscode et node.js
